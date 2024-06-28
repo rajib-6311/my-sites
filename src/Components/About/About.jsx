@@ -1,12 +1,12 @@
 const About = () => {
   return (
-    <div className="hero bg-base-200 min-h-screen sticky top-0 pt-5">
+    <div className="hero bg-base-200 min-h-screen ">
       <div className="hero-content flex-col lg:flex-row">
         <img
           src="https://i.ibb.co/ZmxrgrJ/ra.png"
           className="max-w-sm  shadow-2xl"
         />
-        <div className="pl-6">
+        <div className="pl-3">
         <h1 className="text-xl font-bold">Hello, this is Saulin Tuhin, a Senior Software Engineer at Samsung Electronics.
         I am the current lead developer of Samsung Electronics’ internal CDN system - ADS (Artifact Delivery Service). Additionally, I am the secondary admin & product owner of the ADS service globally. 
         ADS uses a combination of proprietary network accelerators, smart caching, proxies and public cloud to provide artifacts faster and more securely to all Samsung employees & partners. 

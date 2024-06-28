@@ -3,20 +3,20 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
 
   const links = <>
-    <li><NavLink to='/'><span className="text-white">Home</span></NavLink></li>
-    <li><NavLink to='/academic'>Academic info</NavLink></li>
-    <li><NavLink to='/skills'>Technical Skills</NavLink></li>
-    <li><NavLink to='/strengths'>Strengths</NavLink></li>
-    <li><NavLink to='/language-skills'>Language Skill</NavLink></li>
-    <li><NavLink to='/projects'>Projects</NavLink></li>
-    <li><NavLink to='/curricular'>Extra Curricular Activities</NavLink></li>
-    <li><NavLink to='/contact'>Contact</NavLink></li>
+    <li><NavLink to='/'><span className="text-white font-bold">Home</span></NavLink></li>
+    <li><NavLink to='/academic'><span className="text-white font-bold">Academic info</span></NavLink></li>
+    <li><NavLink to='/skills'><span className="text-white font-bold">Technical Skills</span></NavLink></li>
+    <li><NavLink to='/strengths'><span className="text-white font-bold">Strengths</span></NavLink></li>
+    <li><NavLink to='/language-skills'><span className="text-white font-bold">Language Skill</span></NavLink></li>
+    <li><NavLink to='/projects'><span className="text-white font-bold">Projects</span></NavLink></li>
+    <li><NavLink to='/curricular'><span className="text-white font-bold">Extra Curricular Activities</span></NavLink></li>
+    <li><NavLink to='/contact'><span className="text-white ">Contact</span></NavLink></li>
     
 
   </>
   
   return (
-    <div className="navbar  bg-base-100 fixed z-30">
+    <div className="navbar fixed z-30">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

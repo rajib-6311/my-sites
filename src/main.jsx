@@ -11,6 +11,7 @@ import Root from './Components/Root/Root';
 import ErrorPage from './Components/ErrorPage/ErrorPage';
 import Home from './Components/Home/Home';
 import AcademicInfo from './Components/AcademicInfo/AcademicInfo';
+import TechnicalSkill from './Components/TechnicalSkill/TechnicalSkill';
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
       {
         path: '/academic',
         element: <AcademicInfo></AcademicInfo>
+      },
+      {
+        path: '/skills',
+        element: <TechnicalSkill></TechnicalSkill>
       }
     ]
   },
