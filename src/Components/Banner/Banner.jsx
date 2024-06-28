@@ -8,7 +8,7 @@ const Banner = () => {
 
             </div>
             <div className="absolute inset-0 flex items-center justify-center">
-           <h2 className="text-white text-3xl font-bold">Academic info</h2>
+           <h2 className="text-white text-3xl font-bold">Md. Rajib Hossen</h2>
             </div>
             
       </div>
