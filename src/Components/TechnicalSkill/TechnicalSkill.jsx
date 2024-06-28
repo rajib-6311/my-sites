@@ -9,7 +9,7 @@ const TechnicalSkill = () => {
 
         </div>
         <div className="absolute inset-0 flex items-center justify-center">
-       <h2 className="text-white text-6xl font-bold pb-96">Technical Skills</h2>
+       <h2 className="text-white text-6xl font-bold pb-[530px]">Technical Skills</h2>
         </div>
         <TechnicalSkillAbout></TechnicalSkillAbout>
   </div>

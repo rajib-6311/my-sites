@@ -12,6 +12,8 @@ import ErrorPage from './Components/ErrorPage/ErrorPage';
 import Home from './Components/Home/Home';
 import AcademicInfo from './Components/AcademicInfo/AcademicInfo';
 import TechnicalSkill from './Components/TechnicalSkill/TechnicalSkill';
+import Strengths from './Components/Strengths/Strengths';
+import LanguageSkill from './Components/LanguageSkill/LanguageSkill';
 
 const router = createBrowserRouter([
   {
@@ -30,6 +32,14 @@ const router = createBrowserRouter([
       {
         path: '/skills',
         element: <TechnicalSkill></TechnicalSkill>
+      },
+      {
+        path: '/strengths',
+        element: <Strengths></Strengths>
+      },
+      {
+        path: '/language-skills',
+        element: <LanguageSkill></LanguageSkill>
       }
     ]
   },
