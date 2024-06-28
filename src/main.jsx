@@ -10,6 +10,7 @@ import {
 import Root from './Components/Root/Root';
 import ErrorPage from './Components/ErrorPage/ErrorPage';
 import Home from './Components/Home/Home';
+import AcademicInfo from './Components/AcademicInfo/AcademicInfo';
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home></Home>
+      },
+      {
+        path: '/academic',
+        element: <AcademicInfo></AcademicInfo>
       }
     ]
   },
