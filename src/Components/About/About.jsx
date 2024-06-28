@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className="hero bg-base-200 min-h-screen ">
+    <div className="hero bg-white min-h-screen ">
       <div className="hero-content flex-col lg:flex-row">
         <img
           src="https://i.ibb.co/ZmxrgrJ/ra.png"
