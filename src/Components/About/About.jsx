@@ -1,8 +1,13 @@
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+// ..
+AOS.init();
+
 const About = () => {
   return (
     <div className="hero bg-white min-h-screen ">
       <div className="hero-content flex-col lg:flex-row">
-        <img
+        <img data-aos="zoom-in" data-aos-duration="2000"
           src="https://i.ibb.co/ZmxrgrJ/ra.png"
           className="max-w-sm  shadow-2xl"
         />
