@@ -14,6 +14,9 @@ import AcademicInfo from './Components/AcademicInfo/AcademicInfo';
 import TechnicalSkill from './Components/TechnicalSkill/TechnicalSkill';
 import Strengths from './Components/Strengths/Strengths';
 import LanguageSkill from './Components/LanguageSkill/LanguageSkill';
+import Projects from './Components/Projects/Projects';
+import ExtraActivites from './Components/ExtraActivites/ExtraActivites';
+import Contact from './Components/Contact/Contact';
 
 const router = createBrowserRouter([
   {
@@ -40,6 +43,18 @@ const router = createBrowserRouter([
       {
         path: '/language-skills',
         element: <LanguageSkill></LanguageSkill>
+      },
+      {
+        path: '/projects',
+        element: <Projects></Projects>
+      },
+      {
+        path: '/curricular-activities',
+        element: <ExtraActivites></ExtraActivites>
+      },
+      {
+        path: '/contact',
+        element: <Contact></Contact>
       }
     ]
   },

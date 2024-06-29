@@ -3,7 +3,7 @@
 const Banner = () => {
     return (
         <div className="relative ">
-            <img className="h-[370px] w-full object-cover" src="https://i.ibb.co/n600kWX/bg4.png" alt="" />
+            <img className="h-[370px] w-full object-cover" src="https://i.ibb.co/N6Nxk6Z/bg12.jpg" alt="" />
             <div className="absolute inset-0 bg-gray-700 opacity-60 rounded-md">
 
             </div>

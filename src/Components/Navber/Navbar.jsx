@@ -9,7 +9,7 @@ const Navbar = () => {
     <li><NavLink to='/strengths'><span className="text-white font-bold">Strengths</span></NavLink></li>
     <li><NavLink to='/language-skills'><span className="text-white font-bold">Language Skill</span></NavLink></li>
     <li><NavLink to='/projects'><span className="text-white font-bold">Projects</span></NavLink></li>
-    <li><NavLink to='/curricular'><span className="text-white font-bold">Extra Curricular Activities</span></NavLink></li>
+    <li><NavLink to='/curricular-activities'><span className="text-white font-bold">Extra Curricular Activities</span></NavLink></li>
     <li><NavLink to='/contact'><span className="text-white ">Contact</span></NavLink></li>
     
 
