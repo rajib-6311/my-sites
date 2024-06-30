@@ -9,7 +9,7 @@ const ExtraActivites = () => {
 
         </div>
         <div className="absolute inset-0 flex items-center justify-center">
-       <h2 data-aos="zoom-in" data-aos-duration="2000" className="text-white text-6xl font-bold pb-[25px]">Extra Curricular Activities</h2>
+       <h2 data-aos="zoom-in" data-aos-duration="1000" className="text-white text-6xl font-bold pb-[490px]">Extra Curricular Activities</h2>
         </div>
         <ExtraActivitesAbout></ExtraActivitesAbout>
   </div>

@@ -5,7 +5,7 @@ const SocialLink = () => {
   return (
     <div className=" flex gap-5 justify-end pr-52 pt-0 pb-14 bg-white">
       <div>
-      <a className="h-40" href="https://www.facebook.com/" target="blank">
+      <a  href="https://www.facebook.com/" target="blank">
       <FaFacebook className="h-8 w-8 "/>
       </a>
       </div>

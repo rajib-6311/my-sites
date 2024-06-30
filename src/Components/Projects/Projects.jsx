@@ -1,3 +1,4 @@
+import ProjectsAbout from "./ProjectsAbout";
 
 
 const Projects = () => {
@@ -8,9 +9,9 @@ const Projects = () => {
 
             </div>
             <div className="absolute inset-0 flex items-center justify-center">
-           <h2 data-aos="zoom-in" data-aos-duration="2000" className="text-white text-6xl font-bold">Projects</h2>
+           <h2 data-aos="zoom-in" data-aos-duration="2000" className=" text-6xl text-white font-bold pb-[540px]">Projects</h2>
             </div>
-            
+            <ProjectsAbout></ProjectsAbout>
       </div>
     );
 };
