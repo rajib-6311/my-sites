@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <div className="relative ">
             <img className="h-[370px] w-full object-cover" src="https://i.ibb.co/6sBGWcF/bg16.jpg" alt="" />
-            <div className="absolute inset-0 bg-gray-700 opacity-60 rounded-md">
+            <div className="absolute inset-0 rounded-md">
 
             </div>
             <div className="absolute inset-0 flex items-center justify-center">

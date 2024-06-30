@@ -1,14 +1,11 @@
 
 const SocialLink = () => {
   return (
-      <div>
-          <div>
-              <a href="https://www.youtube.com/watch?v=Wf7EAA7j57o" target="-blank">
-                  {/* <FaYoutube className="icons"/> */}
-                
-              </a>
-          </div>
-    </div>
+    <div>
+     
+   
+      <h1 className='text-4xl text-black'>Hello</h1>
+  </div>
   );
 };
 
