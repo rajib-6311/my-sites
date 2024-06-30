@@ -5,7 +5,7 @@ AOS.init();
 
 const About = () => {
   return (
-    <div className="hero bg-white min-h-screen ">
+    <div className="hero bg-white">
       <div className="hero-content flex-col lg:flex-row">
         <img data-aos="zoom-in" data-aos-duration="2000"
           src="https://i.ibb.co/ZmxrgrJ/ra.png"
