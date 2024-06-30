@@ -4,7 +4,7 @@ import StrengthsAbout from "./StrengthsAbout";
 const Strengths = () => {
     return (
         <div className="relative ">
-            <img className="h-[370px] w-full object-cover" src="https://i.ibb.co/sbHQd2Q/bg6.webp" alt="" />
+            <img className="h-[320px] w-full object-cover" src="https://i.ibb.co/sbHQd2Q/bg6.webp" alt="" />
             <div className="absolute inset-0  rounded-md">
 
             </div>
