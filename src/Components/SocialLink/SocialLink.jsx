@@ -1,4 +1,4 @@
-// import { IoMdMail } from "react-icons/io";
+
 import { FaFacebook } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
 const SocialLink = () => {
@@ -13,8 +13,7 @@ const SocialLink = () => {
       <a  href="https://www.linkedin.com/feed/" target="blank">
       < FaLinkedin className="h-8 w-8 "/>
       </a>
-      </div>
-      
+      </div> 
     </div>
   );
 };

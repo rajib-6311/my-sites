@@ -1,19 +1,16 @@
+
 const ProjectsAbout = () => {
   return (
-    <div className="bg-white pl-28 space-y-1">
+      <div className="bg-white pl-28 space-y-1">
       <div className="pt-20">
         <h1 className="text-2xl font-bold text-black">Programming Languages</h1>
         <h1 className="text-xl  text-black space-y-5">
           C/C++, JavaScript(ES6), OOP
         </h1>
-          </div>
-          
-          {/* <div>
-              <a href="https://www.youtube.com/" target="blank">               
-                  youtube
-              </a>
-          </div> */}
-        
+      </div>
+
+     
+
       <div className="pt-5">
         <h1 className="text-2xl font-bold text-black">
           Frameworks & Libraries

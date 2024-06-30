@@ -1,6 +1,7 @@
 import About from "../About/About";
 import Banner from "../Banner/Banner";
-// import SocialLink from "../SocialLink/SocialLink";
+// import Footer from "../Footer/Footer";
+
 
 
 const Home = () => {
@@ -8,7 +9,8 @@ const Home = () => {
         <div>
             <Banner></Banner>
             <About></About>
-            {/* <SocialLink></SocialLink> */}
+            {/* <Footer></Footer> */}
+          
             
         </div>
     );
