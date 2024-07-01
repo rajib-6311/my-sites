@@ -1,6 +1,6 @@
 const TechnicalSkillAbout = () => {
   return (
-    <div className="bg-white pl-28 space-y-1">
+    <div className="bg-white lg:pl-28 sm:pl-10 space-y-1">
       <div className="pt-20">
         <h1 className="text-2xl font-bold text-black">Programming Languages</h1>
         <h1 className="text-xl  text-black space-y-5">

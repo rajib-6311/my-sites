@@ -1,4 +1,4 @@
-import Post from "./Post";
+
 import ProjectsAbout from "./ProjectsAbout";
 
 const Projects = () => {
@@ -25,7 +25,7 @@ const Projects = () => {
           </a>
         </div>
       </div>
-      <Post></Post>
+      
       <ProjectsAbout></ProjectsAbout>
     </div>
   );
