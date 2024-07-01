@@ -14,7 +14,7 @@ const Projects = () => {
         <h2
           data-aos="zoom-in"
           data-aos-duration="2000"
-          className=" text-6xl text-white font-bold pb-[540px]"
+          className=" lg:text-6xl sm:text-4xl text-white font-bold pb-[540px]"
         >
           Projects
               </h2>

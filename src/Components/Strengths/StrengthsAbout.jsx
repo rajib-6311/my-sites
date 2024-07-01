@@ -2,8 +2,8 @@
 
 const StrengthsAbout = () => {
     return (
-        <div className="bg-white pt-5 pl-28">
-            <h1 className="text-xl font-bold text-black">Strengths</h1>
+        <div className="bg-white pt-5 lg:pl-28 sm:pl-6">
+            <h1 className="text-xl font-bold text-black pl-6">Strengths</h1>
             <div className="pl-5 space-y-4">
                 <p className="text-black">Responsible and high tolerance of stress</p>
                 <p className="text-black">Good oral, written and presentation skills</p>
