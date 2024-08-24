@@ -1,9 +1,9 @@
 
-
+import home from '../../assets/images/home.jpg'
 const Banner = () => {
     return (
         <div className="relative ">
-            <img className="h-[320px] w-full object-cover" src="https://i.ibb.co/9vWcvnR/bg5.jpg" alt="" />
+            <img className="h-[320px] w-full object-cover" src={home} alt="" />
             <div className="absolute inset-0">
            
             </div>

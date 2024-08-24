@@ -1,11 +1,12 @@
 import TechnicalSkillAbout from "./TechnicalSkillAbout";
-
+import technical from '../../assets/images/technical.jpg'
 
 const TechnicalSkill = () => {
     return (
         <div className="relative ">
-        <img className="h-[320px] w-full object-cover" src="https://i.ibb.co/9vWcvnR/bg5.jpg" alt="" />
-        <div className="absolute inset-0  rounded-md">
+        <img className="h-[320px] w-full object-cover"
+         src={technical} alt="" />
+        <div className="absolute inset-0  rounded-md">  
 
         </div>
         <div className="absolute inset-0 flex items-center justify-center">

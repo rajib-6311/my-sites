@@ -6,7 +6,7 @@ const Navbar = () => {
     <li><NavLink to='/'><span className="text-white font-bold">Home</span></NavLink></li>
     <li><NavLink to='/academic'><span className="text-white font-bold">Academic info</span></NavLink></li>
     <li><NavLink to='/skills'><span className="text-white font-bold">Technical Skills</span></NavLink></li>
-    <li><NavLink to='/strengths'><span className="text-white font-bold">Strengths</span></NavLink></li>
+    {/* <li><NavLink to='/strengths'><span className="text-white font-bold">Strengths</span></NavLink></li> */}
     <li><NavLink to='/language-skills'><span className="text-white font-bold">Language Skill</span></NavLink></li>
     <li><NavLink to='/projects'><span className="text-white font-bold">Projects</span></NavLink></li>
     <li><NavLink to='/curricular-activities'><span className="text-white font-bold">Extra Curricular Activities</span></NavLink></li>

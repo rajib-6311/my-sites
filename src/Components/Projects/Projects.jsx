@@ -1,31 +1,27 @@
-
 import ProjectsAbout from "./ProjectsAbout";
-
+import project from '../../assets/images/project.png'
 const Projects = () => {
   return (
-    <div className="relative ">
+    <div className=" bg-white">
       <img
-        className="h-[320px] w-full object-cover"
-        src="https://i.ibb.co/4ZQp2ZQ/bg13.jpg"
+        className="h-[320px] w-full "
+        // src="https://i.ibb.co/4ZQp2ZQ/bg13.jpg"
+        src={project}
         alt=""
       />
       <div className="absolute inset-0"></div>
       <div className="absolute inset-0 flex items-center justify-center">
-        <h2
-          data-aos="zoom-in"
-          data-aos-duration="2000"
-          className=" lg:text-6xl sm:text-4xl text-white font-bold pb-[540px]"
-        >
-          Projects
-              </h2>
-              {/* Link */}
         <div>
-          <a href="https://www.linkedin.com/feed/" target="blank">
-            <h1 className="text-black">Link</h1>
-          </a>
+          <h2
+            data-aos="zoom-in"
+            data-aos-duration="2000"
+            className="  text-white lg:text-6xl sm:text-2xl font-bold pb-[430px]"
+          >
+            Projects
+          </h2>
         </div>
       </div>
-      
+
       <ProjectsAbout></ProjectsAbout>
     </div>
   );
