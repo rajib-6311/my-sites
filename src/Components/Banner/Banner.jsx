@@ -1,5 +1,5 @@
 
-import home from '../../assets/images/home.jpg'
+import home from '../../assets/images/academic.jpg'
 const Banner = () => {
     return (
         <div className="relative ">
