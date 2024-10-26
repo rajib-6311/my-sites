@@ -4,7 +4,7 @@ import extra from '../../assets/images/technical.jpg'
 const ExtraActivites = () => {
     return (
         <div className="relative ">
-        <img className="h-[320px] w-full object-cover" 
+        <img className="lg:h-[320px] sm:h-[100px] w-full object-cover" 
         src={extra} alt="" />
         <div className="absolute inset-0">
 

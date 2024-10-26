@@ -4,7 +4,7 @@ import ContactAbout from "./ContactAbout";
 const Contact = () => {
     return (
         <div className="relative ">
-            <img className="h-[320px] w-full object-cover" src="https://i.ibb.co/6sBGWcF/bg16.jpg" alt="" />
+            <img className="lg:h-[320px] sm:h-[50px] w-full object-cover" src="https://i.ibb.co/6sBGWcF/bg16.jpg" alt="" />
             <div className="absolute inset-0 rounded-md">
 
             </div>

@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div className=" bg-white">
       <img
-        className="h-[320px] w-full "
+        className="lg:h-[350px] sm:h-[100px] w-full "
         // src="https://i.ibb.co/4ZQp2ZQ/bg13.jpg"
         src={project}
         alt=""

@@ -5,7 +5,7 @@ const AcademicInfo = () => {
     return (
        
         <div className="relative">
-            <img className="h-[320px] w-full object-cover" src={academic} alt="" />
+            <img className="lg:h-[320px] sm:h-[20px] w-full object-cover" src={academic} alt="" />
             <div className="absolute inset-0">
 
             </div>
