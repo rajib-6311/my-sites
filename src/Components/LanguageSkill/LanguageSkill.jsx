@@ -4,7 +4,7 @@ import LanguageSkillAbout from "./LanguageSkillAbout";
 const LanguageSkill = () => {
     return (
         <div className="relative ">
-            <img className="lg:h-[320px] sm:h-[10px] w-full object-cover" src="https://i.ibb.co/JzHTYw0/bg7.jpg" alt="" />
+            <img className="lg:h-[250px] sm:h-[10px] w-full object-cover" src="https://i.ibb.co/JzHTYw0/bg7.jpg" alt="" />
             <div className="absolute inset-0">
 
             </div>

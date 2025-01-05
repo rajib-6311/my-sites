@@ -1,11 +1,11 @@
 import TechnicalSkillAbout from "./TechnicalSkillAbout";
 // import technical from '../../assets/images/technical.jpg'
-import tech from '../../assets/images/technicall.webp'
+import tech from '../../assets/images/h1.jpg'
 
 const TechnicalSkill = () => {
     return (
-        <div className="relative ">
-        <img className="lg:h-[320px] sm:h-[50px] w-full object-cover"
+        <div className="relative "> 
+        <img className="lg:h-[250px] sm:h-[30px] w-full object-cover"
          src={tech} alt="" />
         <div className="absolute inset-0  rounded-md">  
 

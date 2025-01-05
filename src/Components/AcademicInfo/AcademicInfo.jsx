@@ -1,11 +1,11 @@
 import AcademicInfoAbout from "./AcademicInfoAbout";
-import academic from '../../assets/images/academic.jpg'
+import academic from '../../assets/images/academic2.jpg'
 
 const AcademicInfo = () => {
     return (
        
-        <div className="relative">
-            <img className="lg:h-[320px] sm:h-[20px] w-full object-cover" src={academic} alt="" />
+        <div className="relative">  
+            <img className="lg:h-[250px] sm:h-[20px] w-full object-cover" src={academic} alt="" />
             <div className="absolute inset-0">
 
             </div>

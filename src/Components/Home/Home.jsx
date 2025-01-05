@@ -10,8 +10,6 @@ const Home = () => {
             <Banner></Banner>
             <About></About>
             {/* <Footer></Footer> */}
-          
-            
         </div>
     );
 };
