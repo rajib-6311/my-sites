@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://github.com/nurusshakib88/HeathCare/assets/84782668/1cf11125-bd80-4227-a27f-aeef62959a51",
+        "about": "Developed a web-based platform to improve healthcare services by integrating features such as patient registration, appointment scheduling. Additional modules include area base ambulance service, blood bank management, and health tips for users to promote wellness. The system ensures secure access for patients and healthcare providers.",
+        "title": "SHUSHASTHO",
+        "price": "React js, Node js, Express js, JWT, Tailwind CSS, daisyUI, MongoDB"
+    },
+    {
+        "image": "https://i.ibb.co.com/K6FtRR0/stay-Bista.png",
+        "about": "Hotel Booking System developed a user-friendly platform for seamless hotel reservations, featuring intuitive customer search, real-time room availability updates, secure payment integration, and automated notifications. Includes an admin panel for managing inventory, pricing, and reservations efficiently.",
+        "title": "StayVista",
+        "price": "React js, Node js, Express js, TanStack, JWT, Tailwind CSS, Meraki UI, Firebase, MongoDB"
+    },
+    {
+        "image": "https://i.ibb.co.com/xhSphpB/freelancer1.png",
+        "about": "A Freelancer Platform Web Project connects freelancers and clients through user-friendly profiles, allowing freelancers to showcase skills and clients to post job requirements. The platform supports job posting, bidding, advanced search filters, secure payments, and reviews for trust-building. An admin panel enables efficient management of users, transactions, and policies.",
+        "title": "Freelancer",
+        "price": "React js, Node js, Express js, TanStack, JWT, Tailwind CSS, daisyUI, Firebase, MongoDB"
+    },
+    {
+        "image": "https://i.ibb.co.com/BzJ4fp9/singapore.jpg",
+        "about": "A vibrant piece of abstract art by a contemporary artist.",
+        "title": "Color Symphony",
+        "price": ""
+    }
+]

@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-// npm install @heroicons/react
 import "../Navber/Navbar.css";
 
 const Navbar = () => {

@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-
 import './index.css'
 
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+
 import Root from './Components/Root/Root';
 import ErrorPage from './Components/ErrorPage/ErrorPage';
 import Home from './Components/Home/Home';
@@ -14,7 +14,6 @@ import AcademicInfo from './Components/AcademicInfo/AcademicInfo';
 import TechnicalSkill from './Components/TechnicalSkill/TechnicalSkill';
 import LanguageSkill from './Components/LanguageSkill/LanguageSkill';
 import Projects from './Components/Projects/Projects';
-// import ExtraActivites from './Components/ExtraActivites/ExtraActivites';
 import Contact from './Components/Contact/Contact';
 
 const router = createBrowserRouter([
@@ -43,10 +42,6 @@ const router = createBrowserRouter([
         path: '/projects',
         element: <Projects></Projects>
       },
-      // {
-      //   path: '/curricular-activities',
-      //   element: <ExtraActivites></ExtraActivites>
-      // },
       {
         path: '/contact',
         element: <Contact></Contact>

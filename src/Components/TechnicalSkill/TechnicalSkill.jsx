@@ -1,5 +1,4 @@
 import TechnicalSkillAbout from "./TechnicalSkillAbout";
-// import technical from '../../assets/images/technical.jpg'
 import tech from '../../assets/images/h1.jpg'
 
 const TechnicalSkill = () => {
