@@ -4,7 +4,7 @@ const TechnicalSkillAbout = () => {
       <div className="pt-20 pl-6">
         <h1 className="text-2xl    font-bold text-black">Programming Languages</h1>
         <h1 className="text-xl  text-black space-y-5">
-          C/C++, JavaScript(ES6), OOP
+        JavaScript, Basic Java, MySQL, C/C++
         </h1>
       </div>
       <div className="pt-5 pl-6">
@@ -12,18 +12,18 @@ const TechnicalSkillAbout = () => {
           Frameworks & Libraries
         </h1>
         <h1 className="text-xl  text-black space-y-5">
-          React, Tailwind CSS, DaisyUI
+          React js, Node js, Tailwind CSS, DaisyUI
         </h1>
       </div>
       <div className="pt-5 pl-6">
-        <h1 className="text-2xl font-bold text-black">DevOps</h1>
+        <h1 className="text-2xl font-bold text-black">Tools</h1>
         <h1 className="text-xl  text-black space-y-5">
-          Linux, VSCode, Figma, Canva, ChatGPT, Chrome Dev Tools.
+          VSCode, Figma, Canva, ChatGPT, Chrome Dev Tools.
         </h1>
       </div>
       <div className="pt-5 pl-6">
         <h1 className="text-2xl font-bold text-black">Project Management</h1>
-        <h1 className="text-xl  text-black space-y-5">GitHub, GitKraken.</h1>
+        <h1 className="text-xl  text-black space-y-5">GitHub, GitBash, GitKraken.</h1>
       </div>
       <div className="pt-5 pl-6">
         <h1 className="text-2xl font-bold text-black">Interpersonal Skills</h1>
